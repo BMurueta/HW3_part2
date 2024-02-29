@@ -2,7 +2,7 @@
 title: "hw3_p2_churn"
 output: html_document
 author: "Brenda Murueta & David Adewole"
-date: "2024-02-25"
+date: "2024-02-29"
 ---
 
 ```{r setup, include=FALSE}
